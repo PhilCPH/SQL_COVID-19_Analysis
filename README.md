@@ -1,6 +1,13 @@
-# SQL and Tableau Showcase on current COVID-19 Data
+# SQL and Tableau Showcase on current COVID-19 Data from Austria and Denmark
 
-Compilation of advanced SQL queries with visualizations in Tableau.
+COVID data set taken from: https://ourworldindata.org/covid-deaths
+
+The goal was to get a closer look on the current COVID-19 situation in Denmark and Austria by utilizing advanced SQL-queries such as:
+- SQL Data Definition Language (DDL)
+  - CREATE/ALTER/DROP/NOT NULL/VIEW 
+- SQL Data Manipulation Language (DML)
+  - INSERT/UPDATE/DELETE/SELECT/WHERE/HAVING/GROUP BY/USE
+
 
 ### Visualizations
 + [View Visualizations for COVID-19 in Denmark]
