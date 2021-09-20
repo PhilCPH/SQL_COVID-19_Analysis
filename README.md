@@ -9,6 +9,7 @@ The goal was to get a closer look on the current COVID-19 situation in Denmark a
   - INSERT/UPDATE/DELETE/SELECT/WHERE/HAVING/GROUP BY/USE
 
 ![Dashboard](https://github.com/PhilCPH/SQL_COVID-19_Analysis/blob/main/1.PNG)
+![Dashboard2](https://github.com/PhilCPH/SQL_COVID-19_Analysis/blob/main/2.PNG)
 
 ### Tableau Public
 + [View Visualizations for COVID-19 in Denmark]
