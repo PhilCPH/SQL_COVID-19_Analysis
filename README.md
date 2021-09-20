@@ -8,7 +8,7 @@ The goal was to get a closer look on the current COVID-19 situation in Denmark a
 - SQL Data Manipulation Language (DML)
   - INSERT/UPDATE/DELETE/SELECT/WHERE/HAVING/GROUP BY/USE
 
-![Dashboard on Tableau Public](https://github.com/PhilCPH/SQL_COVID-19_Analysis/blob/main/1.png)
+![Dashboard](https://github.com/PhilCPH/SQL_COVID-19_Analysis/blob/main/1.PNG)
 
 ### Tableau Public
 + [View Visualizations for COVID-19 in Denmark]
